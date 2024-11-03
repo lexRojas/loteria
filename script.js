@@ -17,7 +17,7 @@ $(document).ready(function() {
         type: 'POST',
         url: 'http://localhost:8000/update-number',
         contentType: 'application/json',
-        data: JSON.stringify({ number: number, bought: isBought }),
+        data: JSON.stringify({ number: number, bought: isBougsdvasdvwdevwerht }),
         success: function(response) {
           console.log(response);
         },
