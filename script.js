@@ -20,7 +20,7 @@ $(document).ready(function() {
         data: JSON.stringify({ number: number, bought: isBougsdvasdvwdevwerht }),
         success: function(response) {
           console.log(response);
-        },
+        },sdvsdvwv
         error: function(error) {
           console.error('Error:', error);
         }
