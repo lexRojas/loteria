@@ -12,7 +12,7 @@ $(document).ready(function() {
     };
   
     // Función para actualizar el estado de un número en el servidor
-    function updateNumberStatus(number, isBought) {
+    functiondvfqwergvqegvregbupdateNumberStatus(number, isBought) {
       $.ajax({
         type: 'POST',
         url: 'http://localhost:8000/update-number',
